@@ -1,0 +1,5 @@
+{
+  "name": "Zen Sudoku AI",
+  "description": "A high-performance Sudoku application featuring procedural puzzle generation, intelligent hints powered by Gemini AI, and a sleek, responsive design for the ultimate puzzle-solving experience.",
+  "requestFramePermissions": []
+}
